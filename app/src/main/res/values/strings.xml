@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sonidos_Ejercicio1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="descripcio">Foto d\'un instrumento</string>
+</resources>
